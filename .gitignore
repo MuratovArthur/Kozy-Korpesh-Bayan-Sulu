@@ -1,0 +1,72 @@
+# .gitignore for Pygame project
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# PyInstaller
+# Usually these files are written by a python script from a PyInstaller script
+# and not by PyInstaller itself.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm / IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Assets and output
+assets/
+output/
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables
+.env
+.env.*

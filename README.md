@@ -24,7 +24,7 @@ git clone https://github.com/MuratovArthur/KozyKorpesh_BayanSulu.git
 
 ## Usage
 
-To start the game, run the following command in the terminal:
+To start the game, navigate into the main folder and run the following command in the terminal:
 ```
 python main.py
 ```
@@ -33,4 +33,8 @@ or
 python3 main.py
 ```
 ## Features
-
+1. **Two players**: Control Kozy-Korpesh with arrow keys (←, →, ↓, ↑) and Bayan-Sulu with (W,A,S,D) keys.
+2. **Two locations**: Steppe 🌾 and Forest 🌲
+3. **Pause**: You can pause the game at any time by pressing the SPACE key.
+4. **Save Game**: You can save your progress at any time by pressing the ESCAPE key and choosing YES in the menu. The game will save your position at current location.
+5. **Challenging maps**: One unique aspect of this game is the presence of gates and hidden buttons 🍄, which can be activated to open gates and progress through the location. 

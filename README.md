@@ -55,3 +55,6 @@ python3 main.py
     <td><img src="data/readme_files/gal6.png" alt="Image 6" width="330"></td>
   </tr>
 </table>
+
+## Credits
+Inspired by [QazComics](https://www.instagram.com/qazcomics.kz/), check out [Kozy-Korpesh and Bayan-Sulu](https://qazcomics.kz/ru/comics/6) comics.

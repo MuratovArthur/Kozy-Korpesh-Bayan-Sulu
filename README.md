@@ -8,7 +8,7 @@ The game is a 2D side-scrolling adventure that takes place in different location
 
 ## Installation
 
-1. Install [Python] 3.7(https://www.python.org/downloads/) or higher on your system.
+1. Install [Python](https://www.python.org/downloads/) 3.7 or higher on your system.
 2. Install [Pygame](https://www.pygame.org/wiki/GettingStarted)
 ```
 pip install pygame
